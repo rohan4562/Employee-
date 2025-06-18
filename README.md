@@ -1,4 +1,4 @@
-# HR Attrition Prediction Using Machine Learning
+#  Predicting Which Employees Might Leave Using Machine Learning
 
 A complete end-to-end machine learning project that predicts employee attrition using HR analytics data. It includes data preprocessing, model building, evaluation, and deployment with a user-friendly interface using **Streamlit**.
 
